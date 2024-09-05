@@ -1,0 +1,162 @@
+.sec{ 
+    width: 1450px;
+    height: 900px;
+    background-color: #FEFCFB;
+
+}
+
+.first{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+
+
+
+
+.form{
+    width: 750px;
+    height: 100px;
+    margin: 12%;
+    padding: 2%;
+    border: 2px solid black;
+    background-color: blueviolet;
+
+}
+.thing{
+    width:1420px ;
+    height: 400px;
+    background-color:#F7F8FC;
+  
+}
+.th{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#thi{
+    
+    width: 320px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 2px;
+    gap: 20px;
+}
+#font1{
+    .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        
+      }
+}
+#need{
+    padding: 2%;
+    margin: 2%;
+    .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        text-align: center;
+      }
+
+}
+#red{
+    color: orangered;
+    .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        font-size: 100%;
+      }
+}
+#font2{
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+      }
+}
+.deal{
+    width:1400px ;
+    height: 400px;
+    background-color: #999999;
+}
+
+.vacation{
+    width:1400px ;
+    height: 400px;
+    background-color:#FEFCFB;
+}
+.mad{
+    background-color: #F7F8FC;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1450px;
+    height: 250px;
+
+}
+#img{
+    width: 220px;
+    height: 250px;
+}
+#star{
+    width: 28px;
+    height: 20px;
+}
+.ppl{
+    width:1400px ;
+    height: 400px;
+    background-color: #F7F8FC;
+}
+.subs{ 
+    position: relative;
+    padding:5px; 
+    margin : 12% ;
+    border: 3px solid black;
+    width:1000px ;
+    height: 300px;
+    background-color: #FA7436;
+
+}
+#ss{
+    color: white;
+    margin-top: 4%;
+    font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        text-align: center;
+color: white;
+}
+
+.ema{
+    width: 650px;
+    height: 60px;
+    margin: 
+}
+
+#si{
+padding: 3%;
+    margin-left: 45%;
+}
+.blog{
+
+    width:1400px ;
+    height: 400px;
+    background-color: #FEFCFB;
+}
+.footer{
+ 
+    width:1400px ;
+    height: 700px;
+    background-color: #F7F8FC
+}
+
+.end{
+    margin: 0%;
+}
+.endd{
+    margin: 70%;
+}
