@@ -144,6 +144,7 @@ margin-left: 18%;
 
 
 .thi{
+    margin: 0;
    width: 1400px;
    height: 600px;
    background-color: #F7F8FC;
@@ -271,6 +272,7 @@ margin-left: 18%;
    
 }
 .say{
+    margin: 0;
     width: 400px;
     height: 250px;
     margin-top: 10%;
@@ -313,6 +315,7 @@ margin-left: 18%;
     
 }
 .subscribe{
+    margin: 0;
     background-color: #FA7436;
     color: white;
     width: 800px;
@@ -380,10 +383,11 @@ padding: 3%;
 .blog{
     margin: 0;
     width:1400px ;
-    height: 5%;
+    height: 600px;
     background-color: #FEFCFB;
 }
 .madd{
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -455,3 +459,9 @@ padding: 3%;
     width: 300px;
     height: 300px;
 }
+
+.med{
+    background-color
+    :#FEFCFB;
+}
+
